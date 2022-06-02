@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../img/factory-g4bf5e4125_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.leaderboard {
+    max-width: 45rem;
+    margin: 5rem auto;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    background-color: #FAC213;
+    color: #000;
+    text-transform: uppercase;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    padding-bottom: 1rem;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 5rem;
+    text-align: center;
+}
+
+a:hover {
+    border-bottom: 3px inset yellow;
+}
+
+nav a {
+    font-size: 0.8rem;
+    margin-left: 2.4rem;
+    font-weight: bold;
+}
+
+nav a + a {
+    margin-left: 2rem;
+}
+
+table {
+    background-color: #16181e;
+    color: #FBCB0A;
+    width: 100%;
+    border-collapse: collapse;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    overflow: hidden;
+}
+
+thead {
+    font-size: 1.1rem;
+    color: #FBCB0A;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+tbody .nombre{
+    color: #fff;
+    font-weight: bold;
+}
+
+.nombre {
+    text-align: left;
+}
+
+.rank {
+    text-align: rigth;
+    width: 3ch;
+}
+
+.w1, .w2,
+.w3, .t {
+    text-align: right;
+    width: 12ch;
+}
+
+th {
+    padding: 1rem 1rem 0;
+}
+
+td {
+    padding: 1rem 1rem;
+}
+
+.claro {
+    background-color: #0D0D0D;
+}
+
+@media (max-width: 600px) {
+    nav a {
+        font-size: 0.7rem;
+        margin-left: .6rem;
+        font-weight: bold;
+    }    
+  }
