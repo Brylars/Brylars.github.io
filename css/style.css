@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000;
+}
+
+table {
+    background-color: #F5F5F5;
+    opacity: .7;
+    border-collapse: collapse;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #E1B14B;
+}
+
+h1 {
+    font-size: 6rem;
+    padding-top: 2.5rem;
+}
+
+h2 {
+    font-size: 1rem;
+    padding: 1rem 0;
+}
+
+.nav-link {
+    color: #E1B14B;
+    margin: auto;
+}
+
+.nav-link:hover {
+    color: yellow;
+}
+
+.nav-link .active {
+    color: yellow;
+}
+
+/*--------------------------------*/
+@media (max-width: 600px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    thead {
+        font-size: .8rem;
+    }
+    tbody {
+        font-size: .8rem;
+    }
+    .edu {
+        font-size: .7rem;
+    } 
+  }
+  /*-----*/
+  @media (max-width: 360px) {
+      .adri {
+          font-size: .7rem;
+      }
+      .cris {
+        font-size: .7rem;
+      }
+      .edu {
+        font-size: .6rem;
+    } 
+
+  }
