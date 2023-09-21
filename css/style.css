@@ -42,7 +42,7 @@ p {
 /* Start Categoria Principiantes */
 .categoriap {
     text-align: center;
-    color: #C21010;
+    color: #fff;
 }
 
 .categoriap img {
@@ -67,6 +67,7 @@ p {
 
 .categoriap h3 {
     margin-top: 20px;
+    color: #fff;
 }
 
 .categoriap table{
@@ -137,6 +138,7 @@ i {
 
 .categoriai h3 {
     margin-top: 20px;
+    color: #fff;
 }
 
 .categoriai table{
