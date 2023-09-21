@@ -132,7 +132,7 @@ i {
 .categoriai h2 {
     font-family: Azonix;
     margin-top: 10px;
-    color: #fff;
+    color: #FAC213;
 }
 
 .categoriai h3 {
@@ -193,12 +193,11 @@ i {
 .participantes h4 {
     font-family: Azonix;
     font-size: 18px;
-    color: #C21010;
+    color: #FAC213;
     text-align: center;
 }
 
 .participantes .table {
-    background-color: #446A46;
     color: #fff;
 }
 
