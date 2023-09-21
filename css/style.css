@@ -81,6 +81,7 @@ p {
 /* Start Menu */
 .menu {
     color: white;
+    background-color: #FAC213;
     padding: 10px;
     font-size: 20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
