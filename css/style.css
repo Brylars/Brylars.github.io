@@ -246,9 +246,6 @@ i {
     align-content: center;
 }
 
-.banner {
-    color: #fff;
-}
 .button, .card {
     font-size: 12px;
     background-color: #446A46;
@@ -291,6 +288,5 @@ h5 {
 
 table{
     color: #fff;
-    background-color: #446A46;
 }
 /* End Competidor 1 */
