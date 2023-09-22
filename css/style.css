@@ -248,7 +248,7 @@ i {
 
 .button, .card {
     font-size: 12px;
-    background-color: #446A46;
+    background-color: #FAC213;
     color: #fff;
 }
 
@@ -258,14 +258,7 @@ i {
 
 .w1 {
     text-align: center;
-    align-content: center;
     padding-top: 40px;
-}
-
-.w2 {
-    padding-top: 20px;
-    text-align: center;
-    align-content: center;
 }
 /* End Wods */
 /* Start botones */
